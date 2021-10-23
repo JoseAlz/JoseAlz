@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jose <img height="40" src=""></h1>
+<h1 align="center">Hi 👋, I'm Jose </h1>
 <h3 align="center">A passionate Javascript and Front-End (and a beginner audio designer) developer from Argentina</h3>
 
 

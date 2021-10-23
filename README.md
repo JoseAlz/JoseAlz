@@ -11,7 +11,7 @@
 
 - ⚡ What I like to do: **I like so much reading, ...and code **
 
-<h3 align="center">Connect with me:</h3>
+
 <div align="center">
 
 

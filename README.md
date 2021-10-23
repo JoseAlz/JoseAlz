@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Javascript, HTML5 and CSS3**
 
-- 👯 I’m looking to collaborate on **front-end projects**
+- 👯  **front-end projects**
 
 
 

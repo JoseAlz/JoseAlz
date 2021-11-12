@@ -3,9 +3,9 @@
 
 
 
-- 🌱 I’m currently learning **React, Javascript, HTML5 and CSS3**
+- 🌱 I’m currently learning **Unity, Dart, React, Javascript, HTML5 and CSS3**
 
-- 👯  **front-end projects**
+- 👯  **front-end...**
 
 
 

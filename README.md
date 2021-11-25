@@ -1,15 +1,24 @@
 <h1 align="center">Hi 👋, I'm Jose </h1>
-<h3 align="center">A passionate Javascript and Front-End (and a beginner audio designer) developer from Argentina</h3>
+<h3 align="center">Developer from Argentina</h3>
 
 
 
-- 🌱 I’m currently learning **Unity, Dart, React, Javascript, HTML5 and CSS3**
+- 🌱 Programming languages **Java, Assembler, Python, C#, Javascript, HTML5 and CSS3**
 
-- 👯  **front-end...**
+- 👯  learning new languages ​​like **Dart**
+- Framework and Tools: React, Django
+- Sql
+-
+- QA:
+- jmeter
+- Selenium
+- Os
+- Windows, Osx, linux, Unix
+- 
 
 
 
-- ⚡ What I like to do: **I like so much reading, ...and code **
+- ⚡ What I like to do: **I like so much reading, music ...and code **
 
 
 <div align="center">

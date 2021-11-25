@@ -21,8 +21,9 @@
 - ⚡ What I like to do: **I like so much reading, music ...and code **
 - <a href="https://www.linkedin.com/in/jose-alzogaray-80b786128/" rel="nofollow"><img src="https://camo.githubusercontent.com/1598532a3542326fff0ea5e0481f39287c1a1a201b07b4fff95c5ecd6a30553e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f267374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&amp;style=flat-square&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6a238f5332fb42d0a7db039176afb065ea5e8e912b95ddbf7b626d7b40fe5ddc/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d63616c6c6261636b636174373737266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/6a238f5332fb42d0a7db039176afb065ea5e8e912b95ddbf7b626d7b40fe5ddc/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d63616c6c6261636b636174373737266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="JoseAlz" data-canonical-src="https://komarev.com/ghpvc/?username=JoseAlz&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a>
-<div align="center">
+<a href="https://github.com/JoseAlz/github-profile-views-counter">
+    <img src="https://camo.githubusercontent.com/f3f8d35ec6358064b8e59e6a600553a79d44ffe365061efb7ca8b68cae1ba326/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616e746f6e6b6f6d61726576" data-canonical-src="https://github.com/JoseAlz" style="max-width: 100%;">
+</a>
 
 
 

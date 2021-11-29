@@ -7,14 +7,8 @@
 
 - 👯  learning new languages ​​like **Dart**
 - Framework and Tools: React, Django
-- Sql
--
-- QA:
-- jmeter
-- Selenium
-- Os
-- Windows, Osx, linux, Unix
-- 
+- QA, Frontend...
+
 
 
 

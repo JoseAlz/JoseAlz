@@ -7,7 +7,7 @@
 
 - 👯  learning new languages ​​like **Dart**
 - Framework and Tools: React, Django
-- QA, Frontend...
+- QA, Frontend...MERN Stack
 
 
 

@@ -5,7 +5,7 @@
 
 - 🌱 Programming languages **Java, Assembler, Python, C#, Javascript, HTML5 and CSS3**
 
-- 👯  learning new languages ​​like **Dart**
+- 👯  learning new languages ​​like **Dart, Cobol**
 - Framework and Tools: React, Django
 - QA, Frontend...MERN Stack
 

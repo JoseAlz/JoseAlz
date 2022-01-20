@@ -8,7 +8,7 @@
 - 👯  learning new languages ​​like **Dart, Solidity, Cobol**
 - Framework and Tools: React, Django.
 - IDEs, PSeint, Emu8086, Code::Blocks, Eclipse, Netbeans, VsCode.
-- Os :> System 7, 0S8, 9, Osx/Windows/Linux/Unix.
+- Os :> System 7, Mac 0S 8,Mac Os 9, Osx / Windows /Unix /Linux.
 - Mobile :> Symbian, WebOs, Ios, Android.
 - DB: Mysql, MongoDB,
 - Pygame, Torque3d, Unity.

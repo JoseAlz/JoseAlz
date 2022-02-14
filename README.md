@@ -3,9 +3,10 @@
 
 
 
-- 🌱 Programming languages **Java, Assembler, Python, C, C++, Php, C#, Javascript, HTML5 and CSS3**
-
-- 👯  learning new languages ​​like **Dart, Solidity, Cobol**
+- 🌱 Programming languages **Javascript, HTML5 and CSS3**
+- other languages java, assembler, python, c, c++. php, sql.
+- cobol.
+- 👯  learning new languages ​​like **Dart, Solidity, ruby**
 - Framework and Tools: React, Django.
 - DB: Mysql, MongoDB,
 - QA, Frontend..Pentesting..MERN Stack..

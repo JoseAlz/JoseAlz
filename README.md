@@ -8,7 +8,14 @@
 - 👯  learning new languages ​​like ** xxxx**
 - Framework and Tools: React, Django, netbeans, eclipse, vscode.
 
-<code>
+
+
+<pre style='color:black;font-size:18px;line-height:18px;font-family:monospace;'>
+
+
+
+
+
                           #@@:                        
                  @@@@@@@@@@@@@@@@@@                 
              %@@@@@@           =@@@@@@              
@@ -44,7 +51,7 @@
 
   
   
-</code>
+</pre>
                                  
 
 

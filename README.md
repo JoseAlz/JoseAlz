@@ -53,7 +53,7 @@
   
 </pre>
 
-<pre style="padding-left:260px;color:white;font-size:32px;line-height:26px;background-color:blue;margin:6px 0 6px 0;">
+<pre style="padding-left:260px;color:white;font-size:32px;line-height:26px;margin:6px 0 6px 0;">
 &#9556;&#9559;
 &#9553;&#9553;&#9556;&#9552;&#9574;&#9574;&#9574;&#9552;&#9559;
 &#9553;&#9562;&#9571;&#9553;&#9553;&#9553;&#9553;&#9577;&#9571;

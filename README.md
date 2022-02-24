@@ -4,9 +4,11 @@
 
 
 - 🌱 Programming languages **Javascript, HTML5 and CSS3**
-- other languages java, assembler, python, cobol.
-- 👯  learning new languages ​​like ** ruby ...**
-- Framework and Tools: React, Django, Netbeans, Eclipse, Vscode.
+- other languages Java, assembler, python, cobol.
+- 👯  learning new languages ​​like **....**
+- Framework and Tools: React, Django, Netbeans, Eclipse, Vscode
+- Spring boot, Hibernate.
+- Qa.
 
 
 

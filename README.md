@@ -9,6 +9,8 @@
 - Framework and Tools: React, Django, Netbeans, Eclipse, Vscode
 - Spring boot, Hibernate.
 - Qa.
+- Frontend
+- 
 
 
 

@@ -78,7 +78,14 @@
     <img src="https://camo.githubusercontent.com/f3f8d35ec6358064b8e59e6a600553a79d44ffe365061efb7ca8b68cae1ba326/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616e746f6e6b6f6d61726576" data-canonical-src="https://github.com/JoseAlz" style="max-width: 100%;">
 </a>
 
+# 📈 Stats
 
+<img
+  src="https://github-readme-stats.vercel.app/api?username=JoseAlz&show_icons=true&theme=react&&hide_border=true"
+/>
+<br />
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=JoseAlz&&theme=react&&hide_border=true"
 
   
 </div>

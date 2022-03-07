@@ -153,7 +153,7 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />"
+        src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"
         width="48"
         height="48"
         alt="Java"

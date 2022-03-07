@@ -85,7 +85,7 @@
 />
 <br />
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=JoseAlz&&theme=react&&hide_border=true"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=JoseAlz&&theme=react&&hide_border=true" />
 
   
 </div>

@@ -212,7 +212,7 @@
         height="48"
         alt="NODEJS"
       />
-      <br /><strong>NODEJS</strong>
+      <strong>NODEJS</strong>
     </td>
   </tr>
 </table>

@@ -131,7 +131,7 @@
       />
       <br /><strong>Bootstrap</strong>
     </td>
-  </tr>
+  
   <tr>
     <td align="center" height="108" width="108">
       <img

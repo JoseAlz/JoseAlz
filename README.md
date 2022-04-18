@@ -140,6 +140,8 @@
       />
       <br /><strong>Git</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"

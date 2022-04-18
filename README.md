@@ -205,6 +205,15 @@
       />
       <br /><strong>WEBPACK</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+        width="48"
+        height="48"
+        alt="NODEJS"
+      />
+      <br /><strong>NODEJS</strong>
+    </td>
   </tr>
 </table>
 

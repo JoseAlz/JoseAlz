@@ -5,8 +5,8 @@
 
 - 🌱 Programming languages **Javascript, HTML5 and CSS3**
 - other languages Java, assembler, python, cobol.
-- 👯  learning new languages ​​like **MERN**
-- Framework and Tools: React, Django, Netbeans, Eclipse, VScode
+- 👯  learning new languages ​​like **, C++, MERN**
+- Framework and Tools: React, Django, Netbeans, Eclipse, VScode, CodeBlocks...
 - Spring boot, Hibernate.
 - Qa.
 - Frontend

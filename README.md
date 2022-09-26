@@ -14,7 +14,7 @@
 
 
 
-<pre style='color:black;font-size:18px;line-height:18px;font-family:monospace;'>
+<pre style='color:black;font-size:15px;line-height:18px;font-family:monospace;'>
 
 
 
@@ -53,8 +53,6 @@
                    @@@@@@@@@@@@@@                   
                         *@@                         
 
-  
-  
 </pre>
 
 <pre style="padding-left:260px;color:white;font-size:32px;line-height:26px;margin:6px 0 6px 0;">
@@ -234,6 +232,16 @@
       />
       <strong>SVELTE</strong>
     </td>
+    <td >
+	<img
+		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+		width="48"
+        height="48"
+        alt="C++"
+      />
+      <strong>C++</strong>
+	
+	</td>
     
   </tr>  
   
@@ -248,9 +256,7 @@
 - ⚡ What I like to do: **learn something new every day **
 - <a href="https://www.linkedin.com/in/jose-alzogaray-80b786128/" rel="nofollow"><img src="https://camo.githubusercontent.com/1598532a3542326fff0ea5e0481f39287c1a1a201b07b4fff95c5ecd6a30553e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f267374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&amp;style=flat-square&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 
-<a href="https://github.com/JoseAlz/github-profile-views-counter">
-    <img src="https://camo.githubusercontent.com/f3f8d35ec6358064b8e59e6a600553a79d44ffe365061efb7ca8b68cae1ba326/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616e746f6e6b6f6d61726576" data-canonical-src="https://github.com/JoseAlz" style="max-width: 100%;">
-</a>
+
 
 # 📈 Stats
 

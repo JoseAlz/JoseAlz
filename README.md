@@ -260,15 +260,13 @@
 <p align="center">   <img align="center" src="https://profile-counter.glitch.me/JoseAlz/count.svg" /></p>
 
 # 📈 Stats
-
+<div align="center">
 <img
   src="https://github-readme-stats.vercel.app/api?username=JoseAlz&show_icons=true&theme=react&&hide_border=true"
 />
 <br />
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=JoseAlz&&theme=react&&hide_border=true" />
-
-  
 </div>
 
 <h3 align="center">Languages and Tools:</h3>

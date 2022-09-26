@@ -232,15 +232,14 @@
       />
       <strong>SVELTE</strong>
     </td>
-    <td >
+    <td>
 	<img
-		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-		width="48"
+	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+	width="48"
         height="48"
         alt="C++"
       />
       <strong>C++</strong>
-	
 	</td>
     
   </tr>  

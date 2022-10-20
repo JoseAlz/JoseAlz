@@ -4,6 +4,9 @@
 Llegue a este mundo gracias a El Sinclair ZX Spectrum, y assembler pero tuvo que llegar la Cuarentena
 (Lockdown), donde se activo la preparacion de años en segundo plano, para convertirse en la prioridad numero uno.
 
+<p align="center" >
+  <img align="center" src="https://api.daily.dev/devcards/4aba052d94b34db9a001fc7e9d4afc35.png?r=zkp" width="400" alt="Ishimoto Lucas's Dev Card" />  
+</p>
 
 - 🌱 Programming languages **Javascript, HTML5 and CSS3**
 - other languages Java, assembler, python, cobol, QA testing

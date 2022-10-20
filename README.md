@@ -5,13 +5,13 @@ Llegue a este mundo gracias a El Sinclair ZX Spectrum, y assembler pero tuvo que
 (Lockdown), donde se activo la preparacion de años en segundo plano, para convertirse en la prioridad numero uno.
 
 <p align="center" >
-  <img align="center" src="https://hardzone.es/app/uploads-hardzone.es/2022/04/Sinclair-ZX-Spectrum.jpg" width="400" alt=" Dev Card" />  
+  <img align="center" src="https://hardzone.es/app/uploads-hardzone.es/2022/04/Sinclair-ZX-Spectrum.jpg" width="400" alt="Sinclair Zx Spectrum" />  
 </p>
-****************************************************************************************************************************************
-- 🌱 Programming languages **Javascript, HTML5 and CSS3**
+
+- Programming languages **Javascript, HTML5 and CSS3**
 - other languages Java, assembler, python, cobol, QA testing
 
-- 👯  learning new languages ​​like **, C++,
+- learning new languages ​​like **, C++,
 -Actualizando conocimientos en tecnologias relacionada a java.
 - Spring boot, Hibernate, Jpa..
 -Fundamentos de Programacion

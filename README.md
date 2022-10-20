@@ -5,7 +5,7 @@ Llegue a este mundo gracias a El Sinclair ZX Spectrum, y assembler pero tuvo que
 (Lockdown), donde se activo la preparacion de años en segundo plano, para convertirse en la prioridad numero uno.
 
 <pre>
-<img src="https://www.freepng.es/png-rcwzq9/download.html " />
+<img src="https://img2.freepng.es/20180529/jrj/kisspng-computer-keyboard-zx-spectrum-sinclair-research-spectrum-5b0d84deaef266.2722553215276126387166.jpg " />
 </pre>
 
 - 🌱 Programming languages **Javascript, HTML5 and CSS3**

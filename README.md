@@ -5,7 +5,7 @@ Llegue a este mundo gracias a El Sinclair ZX Spectrum, y assembler pero tuvo que
 (Lockdown), donde se activo la preparacion de años en segundo plano, para convertirse en la prioridad numero uno.
 
 <p align="center" >
-  <img align="center" src="https://img2.freepng.es/20180529/jrj/kisspng-computer-keyboard-zx-spectrum-sinclair-research-spectrum-5b0d84deaef266.2722553215276126387166.jpg" width="400" alt=" Dev Card" />  
+  <img align="center" src="https://c0.klipartz.com/pngpicture/735/282/gratis-png-zx-spectrum-el-sistema-de-entretenimiento-super-nintendo-hobbit-sinclair-research-zx81-spectrum.png" width="400" alt=" Dev Card" />  
 </p>
 
 - 🌱 Programming languages **Javascript, HTML5 and CSS3**

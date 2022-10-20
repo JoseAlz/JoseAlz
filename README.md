@@ -3,7 +3,7 @@
 
 Llegue a este mundo gracias a El Sinclair ZX Spectrum, y assembler pero tuvo que llegar la Cuarentena
 (Lockdown), donde se activo la preparacion de años en segundo plano, para convertirse en la prioridad numero uno.
-
+<img src ="https://www.freepng.es/png-rcwzq9/download.html " />
 - 🌱 Programming languages **Javascript, HTML5 and CSS3**
 - other languages Java, assembler, python, cobol, QA testing
 ****************************************************************

@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Jose </h1>
 <h3 align="center">Developer from Argentina</h3>
 
-
+Llegue a este mundo gracias a El Sinclair ZX Spectrum, y assembler pero tuvo que llegar la Cuarentena
+(Lockdown), donde se activo la preparacion de años en segundo plano, para convertirse en la prioridad numero uno.
 
 - 🌱 Programming languages **Javascript, HTML5 and CSS3**
-- other languages Java, assembler, python, cobol....
-- 👯  learning new languages ​​like **, C++, MERN**
-- Framework and Tools: React, Django, Netbeans, Eclipse, VScode, CodeBlocks, DevC++ ...
-- Spring boot, Hibernate.
-- Qa.
-- Frontend
+- other languages Java, assembler, python, cobol, QA testing
+****************************************************************
+- 👯  learning new languages ​​like **, C++,
+-Actualizando conocimientos en tecnologias relacionada a java.
+- Spring boot, Hibernate, Jpa..
+-Fundamentos de Programacion
+-Frontend
+-Backend
+-Fullstack
+-Electronic Music, Radioshow (DJ).
+
 
 
 

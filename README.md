@@ -15,9 +15,7 @@ Conoci el mundo de la informatica con El Sinclair ZX Spectrum, y assembler pero 
 
 - Spring boot, Hibernate, Jpa..
 <p>-Fundamentos de Programacion</p>
--Frontend
--Backend
--Fullstack
+
 <pre>
 <p>-Otros intereses:</p>
 -Electronic Music, Radioshow (DJ).

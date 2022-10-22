@@ -12,12 +12,13 @@ Conoci el mundo de la informatica con El Sinclair ZX Spectrum, y assembler pero 
 - other languages Java, assembler, python, cobol, QA testing
 
 - learning new languages ​​like **, C++,
--Actualizando conocimientos en tecnologias relacionada a java.
+
 - Spring boot, Hibernate, Jpa..
 -Fundamentos de Programacion
 -Frontend
 -Backend
 -Fullstack
+Otros intereses:
 -Electronic Music, Radioshow (DJ).
 
 

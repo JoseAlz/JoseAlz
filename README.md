@@ -14,7 +14,7 @@ Conoci el mundo de la informatica con El Sinclair ZX Spectrum, y assembler pero 
 - learning new languages ​​like **, C++,
 
 - Spring boot, Hibernate, Jpa..
-<p>-Fundamentos de Programacion</p>
+
 
 <pre>
 <p>-Otros intereses:</p>

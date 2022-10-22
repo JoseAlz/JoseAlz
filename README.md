@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose </h1>
 <h3 align="center">Developer from Argentina</h3>
 
-Llegue a este mundo gracias a El Sinclair ZX Spectrum, y assembler pero tuvo que llegar la Cuarentena
+Conoci el mundo de la informatica con El Sinclair ZX Spectrum, y assembler pero era solo un hobby,  tuvo que llegar la Cuarentena
 (Lockdown), donde se activo la preparacion de años en segundo plano, para convertirse en la prioridad numero uno.
 
 <p align="center" >

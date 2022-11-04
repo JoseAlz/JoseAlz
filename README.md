@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jose </h1>
 <h3 align="center">Developer from Argentina</h3>
 
-Conoci el mundo de la informatica con El Sinclair ZX Spectrum, y assembler pero era solo un hobby,  tuvo que llegar la Cuarentena
-(Lockdown), donde se activo la preparacion de años en segundo plano, para convertirse en la prioridad numero uno.
 
 <p align="center" >
   <img align="center" src="https://hardzone.es/app/uploads-hardzone.es/2022/04/Sinclair-ZX-Spectrum.jpg" width="400" alt="Sinclair Zx Spectrum" />  

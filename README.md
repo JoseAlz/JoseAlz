@@ -249,6 +249,15 @@
       />
       <strong>C++</strong>
 	</td>
+	<td>
+	<img
+	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+	width="48"
+        height="48"
+        alt="FIREBASE"
+      />
+      <strong>FIREBASE</strong>
+	</td>
     
   </tr>  
   

@@ -6,17 +6,17 @@
   <img align="center" src="https://hardzone.es/app/uploads-hardzone.es/2022/04/Sinclair-ZX-Spectrum.jpg" width="400" alt="Sinclair Zx Spectrum" />  
 </p>
 
-- Programming languages **Javascript, HTML5 and CSS3**
-- other languages Java, assembler, python, cobol, QA testing
+- ★彡[ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇꜱ ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ, ʜᴛᴍʟ5 ᴀɴᴅ ᴄꜱꜱ3]彡★
+- ★彡[ᴏᴛʜᴇʀ ʟᴀɴɢᴜᴀɢᴇꜱ ᴊᴀᴠᴀ, ᴀꜱꜱᴇᴍʙʟᴇʀ, ᴘʏᴛʜᴏɴ, ᴄᴏʙᴏʟ, Qᴀ ᴛᴇꜱᴛɪɴɢ]彡★
 
-- learning new languages ​​like **, C++,
+- ★彡[ʟᴇᴀʀɴɪɴɢ ɴᴇᴡ ʟᴀɴɢᴜᴀɢᴇꜱ ​​ʟɪᴋᴇ **, ᴄ++,]彡★
 
-- Spring boot, Hibernate, Jpa..
+- ★彡[ꜱᴘʀɪɴɢ ʙᴏᴏᴛ, ʜɪʙᴇʀɴᴀᴛᴇ, ᴊᴘᴀ..]彡★
 
 
 <pre>
 <p>-Otros intereses:</p>
--Electronic Music, Radioshow (DJ).
+-𝔼𝕝𝕖𝕔𝕥𝕣𝕠𝕟𝕚𝕔 𝕄𝕦𝕤𝕚𝕔, ℝ𝕒𝕕𝕚𝕠𝕤𝕙𝕠𝕨 (𝔻𝕁).
 </pre>
 
 

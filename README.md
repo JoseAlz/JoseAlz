@@ -276,7 +276,7 @@
 <br/><br/>
 <p align="center">   <img align="center" src="https://profile-counter.glitch.me/JoseAlz/count.svg" /></p>
 
-# 📈 Stats
+# 📈𝕾𝖙𝖆𝖙𝖘
 <div align="center">
 <img
   src="https://github-readme-stats.vercel.app/api?username=JoseAlz&show_icons=true&theme=react&&hide_border=true"

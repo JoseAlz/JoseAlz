@@ -387,6 +387,15 @@
         alt="bash"
       />
       <strong>BASH</strong>
+	</td> 
+	<td align="center" height="108" width="108">
+	<img
+	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg"
+	width="48"
+        height="48"
+        alt="debian"
+      />
+      <strong>DEBIAN</strong>
 	</td> 				
   </tr>  
   

@@ -267,6 +267,15 @@
       />
       <strong>UNREALENGINE</strong>
 	</td>
+	<td align="center" height="108" width="108">
+	<img
+	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg"
+	width="48"
+        height="48"
+        alt="babel"
+      />
+      <strong>BABEL</strong>
+	</td>  
     
   </tr>  
   

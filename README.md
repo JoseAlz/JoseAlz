@@ -322,7 +322,16 @@
         alt="yarn"
       />
       <strong>YARN</strong>
-	</td>       
+	</td> 
+	<td align="center" height="108" width="108">
+	<img
+	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"
+	width="48"
+        height="48"
+        alt="gitlab"
+      />
+      <strong>GITLAB</strong>
+	</td>       	
   </tr>  
   
 </table>

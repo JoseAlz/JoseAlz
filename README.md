@@ -358,6 +358,15 @@
         alt="springboot"
       />
       <strong>SPRINGBOOT</strong>
+	</td> 
+        <td align="center" height="108" width="108">
+	<img
+	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"
+	width="48"
+        height="48"
+        alt="codepen"
+      />
+      <strong>CODEPEN</strong>
 	</td> 		
   </tr>  
   

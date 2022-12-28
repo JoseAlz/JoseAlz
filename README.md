@@ -276,6 +276,15 @@
       />
       <strong>BABEL</strong>
 	</td>  
+	<td align="center" height="108" width="108">
+	<img
+	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg"
+	width="48"
+        height="48"
+        alt="d3js"
+      />
+      <strong>BABEL</strong>
+	</td>    
     
   </tr>  
   

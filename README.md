@@ -404,8 +404,17 @@
         height="48"
         alt="ubuntu"
       />
-      <strong>DEBIAN</strong>
-	</td> 			
+      <strong>UBUNTU</strong>
+	</td> 	
+	<td align="center" height="108" width="108">
+	<img
+	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg"
+	width="48"
+        height="48"
+        alt="fedora"
+      />
+      <strong>FEDORA</strong>
+	</td> 				
   </tr>  
   
 </table>

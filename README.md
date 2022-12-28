@@ -290,11 +290,38 @@
 	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg"
 	width="48"
         height="48"
-        alt="d3js"
+        alt="heroku"
       />
       <strong>HEROKU</strong>
-	</td>      
-    
+	</td>  
+	  <td align="center" height="108" width="108">
+	<img
+	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"
+	width="48"
+        height="48"
+        alt="intellij"
+      />
+      <strong>INTELLIJ</strong>
+	</td>  
+	 <td align="center" height="108" width="108">
+	<img
+	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+	width="48"
+        height="48"
+        alt="sass"
+      />
+      <strong>SASS</strong>
+	</td>  
+	   <td align="center" height="108" width="108">
+	<img
+	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"
+	width="48"
+        height="48"
+        alt="yarn"
+      />
+      <strong>YARN</strong>
+	</td>       
+   
   </tr>  
   
 </table>

@@ -283,8 +283,17 @@
         height="48"
         alt="d3js"
       />
-      <strong>BABEL</strong>
-	</td>    
+      <strong>D3JS</strong>
+	</td>   
+	<td align="center" height="108" width="108">
+	<img
+	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg"
+	width="48"
+        height="48"
+        alt="d3js"
+      />
+      <strong>HEROKU</strong>
+	</td>      
     
   </tr>  
   

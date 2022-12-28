@@ -378,7 +378,16 @@
         alt="apache"
       />
       <strong>APACHE</strong>
-	</td> 			
+	</td> 	
+	<td align="center" height="108" width="108">
+	<img
+	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
+	width="48"
+        height="48"
+        alt="bash"
+      />
+      <strong>BASH</strong>
+	</td> 				
   </tr>  
   
 </table>

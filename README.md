@@ -414,6 +414,33 @@
         alt="fedora"
       />
       <strong>FEDORA</strong>
+	</td> 	
+	<td align="center" height="108" width="108">
+	<img
+	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original-wordmark.svg "
+	width="48"
+        height="48"
+        alt="opensuse"
+      />
+      <strong>OPENSUSE</strong>
+	</td>
+	<td align="center" height="108" width="108">
+	<img
+	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"
+	width="48"
+        height="48"
+        alt="photoshop"
+      />
+      <strong>PHOTOSHOP</strong>
+	</td>
+	<td align="center" height="108" width="108">
+	<img
+	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"
+	width="48"
+        height="48"
+        alt="selenium"
+      />
+      <strong>SELENIUM</strong>
 	</td> 				
   </tr>  
   

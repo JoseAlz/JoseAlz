@@ -312,7 +312,7 @@
       />
       <strong>SASS</strong>
 	</td>  
-	   <td align="center" height="108" width="108">
+	<td align="center" height="108" width="108">
 	<img
 	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"
 	width="48"
@@ -321,7 +321,6 @@
       />
       <strong>YARN</strong>
 	</td>       
-   
   </tr>  
   
 </table>
